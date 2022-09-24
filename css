@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    
+    main{
+        margin: auto;
+        width: 960px;
+        color:white;
+    }
+    
+    header{
+        background-image: url(masthead.gif) ;
+        width: 960px;
+        height: 332px;
+    }
+    
+    aside{
+        background-image: url(blach_leftcol.gif);
+        width: 390px;
+    
+    }
+    
+    section{
+        background-image: url(back_r)
+    }
